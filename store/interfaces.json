@@ -7,9 +7,6 @@
   "io.landing": {
     "component": "IO"
   },
-  "io.landing-old": {
-    "component": "IO"
-  },
   "io.faq": {
     "component": "FAQ"
   },
