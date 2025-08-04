@@ -2,15 +2,6 @@ import React, { Fragment, FunctionComponent } from 'react'
 import { injectIntl, InjectedIntlProps } from 'react-intl'
 import { Helmet } from 'vtex.render-runtime'
 
-import Navbar from './components/Navbar'
-import Hero from './components/Hero'
-import CardGrid from './components/CardGrid'
-import ProductDisplay from './components/Product'
-import HowItWorks from './components/HowItWorks'
-import EvolutionSection from './components/Evolution'
-import KeyFeatures from './components/KeyFeatures'
-import StartBuilding from './components/StartBuilding'
-import Footer from './components/Footer'
 import favicon from './images/favicon.png'
 
 const Landing: FunctionComponent<InjectedIntlProps> = ({ intl }) => {
@@ -25,17 +16,7 @@ const Landing: FunctionComponent<InjectedIntlProps> = ({ intl }) => {
         <meta name="theme-color" content="#F71963" />
         <link rel="icon" href={favicon} />
       </Helmet>
-      <Navbar />
-      <main className="w-100 bg-base--inverted">
-        <Hero />
-        <CardGrid />
-        <ProductDisplay />
-        <HowItWorks />
-        <EvolutionSection />
-        <KeyFeatures />
-        <StartBuilding />
-      </main>
-      <Footer />
+      <main>xxx</main>
     </Fragment>
   )
 }
