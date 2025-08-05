@@ -9,8 +9,5 @@
   },
   "io.store-features": {
     "component": "Features"
-  },
-  "io.storefront-onboarding": {
-    "component": "Onboarding"
   }
 }
