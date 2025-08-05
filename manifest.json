@@ -1,7 +1,7 @@
 {
   "vendor": "estilospe",
   "name": "io-landing",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "title": "VTEX IO landing page",
   "description": "VTEX IO landing page",
   "builders": {
