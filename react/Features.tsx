@@ -1,11 +1,6 @@
 import React, { Fragment, FunctionComponent } from 'react'
 import { Helmet } from 'vtex.render-runtime'
-
-// import Navbar from './components/Navbar'
-// import Footer from './components/Footer'
 import favicon from './images/favicon.png'
-
-import { storeComponents, storePixel } from './FeaturesData'
 
 const FeaturesDisplay: FunctionComponent = () => {
   return (

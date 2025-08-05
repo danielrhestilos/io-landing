@@ -7,9 +7,6 @@
   "io.landing": {
     "component": "IO"
   },
-  "io.faq": {
-    "component": "FAQ"
-  },
   "io.store-features": {
     "component": "Features"
   },
