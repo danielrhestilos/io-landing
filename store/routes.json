@@ -3,9 +3,6 @@
     "path": "/io2",
     "cname": "www.vtex.io"
   },
-  "io.faq": {
-    "path": "/faq"
-  },
   "io.store-features": {
     "path": "/store-features"
   },
